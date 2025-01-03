@@ -42,3 +42,9 @@
 * 관악구
 * 은평구
 * 도봉구
+
+## Conclusion
+* Top 5 districts are score highly in Medical and Traffic categories. In particular 중구 and 종로구 are making efforts to provide diverse cultural environments.
+* The bottom 5 districts stand out for their lack of cultural and welfare infrastructure, In particular 은평구 and 도봉구 need to improve their overall environments.
+* The successful cases of the top 5 districts should be applied to the bottom 5 districts to systematically address their lack of infrastructure
+* By regularly updating data and conducting additional studies on various factors, more concrete and practical policy implications are expected to be suggested.
